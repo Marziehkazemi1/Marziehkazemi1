@@ -55,19 +55,55 @@ Software defects are expensive, and finding them late is even more expensive. My
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+**Languages & Frameworks**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass&theme=dark" alt="Frontend stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,react,nextjs&theme=dark" alt="Languages and frameworks"/>
 </p>
+
+**UI Libraries**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap&theme=dark" alt="UI libraries"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design"/>
+  <img src="https://img.shields.io/badge/React_Bootstrap-41E0FD?style=for-the-badge&logo=reactbootstrap&logoColor=black" alt="React Bootstrap"/>
+</p>
+
+**Libraries**
+
+<p>
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query"/>
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router"/>
+  <img src="https://img.shields.io/badge/ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white" alt="ECharts"/>
+  <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white" alt="Swiper"/>
+</p>
+
+**Version Control**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=dark" alt="Version control"/>
+</p>
+
+**Other Skills**
+
+`RESTful API` · `Responsive Design` · `SEO`
 
 **Data Science & Research**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" alt="Data and tools"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql,vscode&theme=dark" alt="Data and research tools"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
-`NumPy` · `Pandas` · `Deep Learning` · `Jupyter`
+`Deep Learning`
 
 ---
 
