@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Marzieh Kazemi 👋</h1>
 
 <p align="center">
-  <b>Frontend Developer · AI for Software Engineering Researcher · Prospective PhD Student</b>
+  <b>Frontend Developer · Researching Software Defect Prediction with Deep Learning</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/Marziehkazemi1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=3%2B+years+building+modern+web+interfaces;Researching+Deep+Learning+for+Software+Defect+Prediction;Bridging+Software+Engineering+and+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=3%2B+years+building+modern+web+interfaces;Software+Defect+Prediction+with+Deep+Learning;M.Sc.+Thesis+Researcher" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,9 +21,9 @@
 
 ## 🧭 About Me
 
-I'm a software engineer with **3+ years of professional experience in frontend development**, building responsive, user-focused web applications. Working closely with real codebases made me curious about a bigger question: *how can we use AI to understand software itself — and catch problems before they reach users?*
+I'm a software engineer with **3+ years of professional experience in frontend development**, building responsive, user-focused web applications. Working closely with real codebases made me curious about a bigger question: *can we predict where defects will appear — before they reach users?*
 
-That question led me to my research in **AI for Software Engineering**. I'm currently completing my **M.Sc. thesis on deep learning for software defect prediction**, and I'm looking for a **fully funded PhD position** where I can combine industry experience with research.
+That question led me to my master's research. I'm currently completing my **M.Sc. thesis on software defect prediction with deep learning**, and I'm looking for a **fully funded PhD position** where I can combine industry experience with research.
 
 ---
 
@@ -40,7 +40,7 @@ Software defects are expensive, and finding them late is even more expensive. My
 - 💻 Code: [attention-based-software-defect-prediction](https://github.com/Marziehkazemi1/attention-based-software-defect-prediction)
 
 ### Research Interests
-`AI for Software Engineering` · `Software Defect Prediction` · `Deep Learning` · `Attention Mechanisms` · `Software Quality & Reliability` · `Mining Software Repositories`
+`Software Defect Prediction` · `Deep Learning` · `Attention Mechanisms` · `Software Quality & Reliability` · `Mining Software Repositories`
 
 ---
 
@@ -61,7 +61,7 @@ Software defects are expensive, and finding them late is even more expensive. My
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass&theme=dark" alt="Frontend stack"/>
 </p>
 
-**Data Science & AI**
+**Data Science & Research**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode&theme=dark" alt="Data and tools"/>
@@ -85,7 +85,7 @@ Software defects are expensive, and finding them late is even more expensive. My
 
 - 🎓 Finishing my M.Sc. thesis and preparing a research paper
 - 📚 Deepening my skills in Python, data analysis, and deep learning
-- 🔎 **Open to:** fully funded PhD positions in AI for Software Engineering · Frontend / ML engineering roles
+- 🔎 **Open to:** fully funded PhD positions in Software Defect Prediction & Software Quality · Frontend Developer roles
 
 ---
 
@@ -96,18 +96,3 @@ Software defects are expensive, and finding them late is even more expensive. My
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Marziehkazemi1&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </p>
-
-<!--
-**Marziehkazemi1/Marziehkazemi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
