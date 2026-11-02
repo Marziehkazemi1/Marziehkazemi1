@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Marzieh Kazemi 👋</h1>
 
 <p align="center">
-  <b>Frontend Developer · Researching Software Defect Prediction with Deep Learning</b>
+  <b>Software Engineer · Frontend Developer · Researching Software Defect Prediction with Deep Learning</b>
 </p>
 
 <p align="center">
