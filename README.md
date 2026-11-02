@@ -101,7 +101,7 @@ Software defects are expensive, and finding them late is even more expensive. My
 
 | Project | Stack | Description |
 |---------|-------|-------------|
-| [cms-rtl](https://github.com/Marziehkazemi1/cms-rtl) | React · MUI · Bootstrap · Node.js · MySQL | RTL admin CMS for an online shop — manage products, orders, users, comments and discounts, with dashboard charts and a REST API backend |
+| [cms-rtl](https://github.com/Marziehkazemi1/cms-rtl) | React · MUI · Bootstrap| RTL admin CMS for an online shop — manage products, orders, users, comments and discounts, with dashboard charts and a REST API backend |
 | [social-network](https://github.com/Marziehkazemi1/social-network) | HTML · CSS · JavaScript | Responsive social media interface with feed, stories and theme customization |
 | [dashboard-admin](https://github.com/Marziehkazemi1/dashboard-admin) | — | Admin dashboard — *short description* |
 | [mupra-project](https://github.com/Marziehkazemi1/mupra-project) | — | *Short description* |
