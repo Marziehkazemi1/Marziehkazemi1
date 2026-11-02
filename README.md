@@ -12,8 +12,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marzieh-kazemi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
- <a href="mailto:marziehk569@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="Marzieh-Kazemi-CV.pdf"><img src="https://img.shields.io/badge/CV-24292F?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"/></a>
+  <a href="mailto:marziehk569@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Marziehkazemi1/Marziehkazemi1/blob/main/Marzieh-Kazemi-CV.pdf"><img src="https://img.shields.io/badge/CV-24292F?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"/></a>
   <!-- <a href="YOUR-GOOGLE-SCHOLAR-LINK"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a> -->
 </p>
 
@@ -73,11 +73,22 @@ Software defects are expensive, and finding them late is even more expensive. My
 
 ## 📂 Featured Projects
 
+### 🔬 Research & Data
+
 | Project | Area | Description |
 |---------|------|-------------|
 | [attention-based-software-defect-prediction](https://github.com/Marziehkazemi1/attention-based-software-defect-prediction) | Research · Deep Learning | Thesis code — hybrid attention-based model for software defect prediction |
 | [python-learning-journey](https://github.com/Marziehkazemi1/python-learning-journey) | Python · Data Science | Structured notes and exercises in Python and NumPy |
-| [YOUR-FRONTEND-PROJECT](https://github.com/Marziehkazemi1/YOUR-REPO) | Frontend | Short description of a project you're proud of |
+
+### 💻 Frontend
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [cms-rtl](https://github.com/Marziehkazemi1/cms-rtl) | React · MUI · Bootstrap · Node.js · MySQL | RTL admin CMS for an online shop — manage products, orders, users, comments and discounts, with dashboard charts and a REST API backend |
+| [social-network](https://github.com/Marziehkazemi1/social-network) | HTML · CSS · JavaScript | Responsive social media interface with feed, stories and theme customization |
+| [dashboard-admin](https://github.com/Marziehkazemi1/dashboard-admin) | — | Admin dashboard — *short description* |
+| [mupra-project](https://github.com/Marziehkazemi1/mupra-project) | — | *Short description* |
+| [sport-website](https://github.com/Marziehkazemi1/sport-website) | — | Sports website — *short description* |
 
 ---
 
